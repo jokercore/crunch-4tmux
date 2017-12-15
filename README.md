@@ -47,10 +47,10 @@ Ejemplo: $cd crunch-4tmux
 Posteriormente le damos los permisos requeridos al archivo ejecutable.
 Ejemplo: $chmod 777 crunch
 
-Y por √∫ltimo copiamos el archiv crunch a nuestra carpeta de binarios.
+Y por √∫ltimo copiamos el archio crunch a nuestra carpeta de binarios.
 Ejemplo: $cp crunch /data/data/com.termux/files/usr/bin
 
-LISTO!! ya puedes llamar a crunch desde cualquier ubicaci√n que te encuentres.
+LISTO!! ya puedes ejecutar crunch desde cualquier ubicaci√n que te encuentres.
 
 
 
